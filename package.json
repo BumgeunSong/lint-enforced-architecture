@@ -1,8 +1,8 @@
 {
-  "name": "eslint-plugin-architecture-showcase",
+  "name": "lint-enforced-architecture",
   "version": "0.1.0",
   "private": true,
-  "description": "A showcase of custom ESLint rules that enforce architecture, boundaries, and naming as a deterministic gate.",
+  "description": "Custom ESLint rules that enforce architecture, boundaries, and naming as a deterministic gate — a concrete example for the article.",
   "type": "module",
   "scripts": {
     "test": "vitest run"

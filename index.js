@@ -1,5 +1,5 @@
 /**
- * eslint-plugin-architecture-showcase
+ * lint-enforced-architecture
  *
  * A single custom plugin, `architecture`, that bundles all 15 rules and exposes a
  * `recommended` flat config. Drop it into eslint.config.js to turn the whole set
@@ -40,7 +40,7 @@ const rules = {
 };
 
 const plugin = {
-  meta: { name: 'eslint-plugin-architecture-showcase', version: '0.1.0' },
+  meta: { name: 'lint-enforced-architecture', version: '0.1.0' },
   rules,
 };
 
